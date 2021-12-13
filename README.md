@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheops
 - 👀 I’m interested in Python, Containers, Operators
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on projects using Python.
+- 💞️ I’m looking to collaborate on projects using Python, Kubernetes, Docker
 - 📫 You can reach me via email on sheoprasanna@yahoo.com
 
 <!---
